@@ -1,6 +1,9 @@
 // Exemplo de código com vários problemas para o ESLint
 
 var message = "Hello, World!"
+const condition = false
+const option1 = 'option1'
+const option2 = 'option2'
 
 function greet(name) {
 console.log("Greetings, " + name)
@@ -32,4 +35,6 @@ if(true) console.log("No braces")
 let multiLine = condition ?
   option1 :
   option2
+
+console.log(multiLine)
 
