@@ -1,7 +1,7 @@
 {
-  "name": "daniellferreira",
+  "name": "2-static-code-analysis",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "ex1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

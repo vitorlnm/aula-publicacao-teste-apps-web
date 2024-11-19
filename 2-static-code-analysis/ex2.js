@@ -1,5 +1,3 @@
-// Exemplo de código com vários problemas para o ESLint
-
 var message = "Hello, World!"
 const condition = false
 const option1 = 'option1'
